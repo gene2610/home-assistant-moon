@@ -19,7 +19,7 @@ Enable the [moon integration](https://www.home-assistant.io/integrations/moon/) 
     - platform: moon
 
 #### Step 2
-Install moon-card by copying `moon.js` and `images` from this repo to `<config directory>/www/moon-phases` on your Home Assistant instance.
+Install moon-card by copying `moon.js` and `images` from this repo to `<config directory>/www/community/moon-phases` on your Home Assistant instance.
 
 #### Step 3
 Link `moon-card` inside your ui-lovelace.yaml.
